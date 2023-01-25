@@ -1,5 +1,6 @@
 {
   "name": "dnd-timer",
+  "homepage": "http://maryia-deriv.github.io/dnd-timer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
